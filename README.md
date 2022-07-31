@@ -8,6 +8,6 @@ The screenshots below shows the code in action through replit, an online IDE (In
 ## Screenshots
 
 ### Game Start
-<img width="320" alt="game start" src="https://raw.githubusercontent.com/adamyangyang/TalentLabs-Capstone-Project-1-Python-Tic-Tac-Toe/main/screenshots/1-game-start.PNG">
+<img width="250" alt="game start" src="https://raw.githubusercontent.com/adamyangyang/TalentLabs-Capstone-Project-1-Python-Tic-Tac-Toe/main/screenshots/1-game-start.PNG">
 <img width="620" alt="game draw" src="">
 <img width="620" alt="game restart" src="">
