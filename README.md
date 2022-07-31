@@ -11,5 +11,6 @@ The screenshots below shows the code in action through replit, an online IDE (In
 <img width="250" alt="game start" src="https://raw.githubusercontent.com/adamyangyang/TalentLabs-Capstone-Project-1-Python-Tic-Tac-Toe/main/screenshots/1-game-start.PNG">
 <img width="250" alt="game draw" src="https://raw.githubusercontent.com/adamyangyang/TalentLabs-Capstone-Project-1-Python-Tic-Tac-Toe/main/screenshots/2-game-draw.PNG">
 <img width="250" alt="game restart" src="https://raw.githubusercontent.com/adamyangyang/TalentLabs-Capstone-Project-1-Python-Tic-Tac-Toe/main/screenshots/3-game-restart.PNG">
-<img width="250" alt="game restart" src="">
-<img width="250" alt="game restart" src="">
+<img width="250" alt="player one turn" src="https://raw.githubusercontent.com/adamyangyang/TalentLabs-Capstone-Project-1-Python-Tic-Tac-Toe/main/screenshots/4-player-one-turn.PNG">
+<img width="250" alt="player two turn" src="https://raw.githubusercontent.com/adamyangyang/TalentLabs-Capstone-Project-1-Python-Tic-Tac-Toe/main/screenshots/5-player-two-turn.PNG">
+<img width="250" alt="game win" src="https://raw.githubusercontent.com/adamyangyang/TalentLabs-Capstone-Project-1-Python-Tic-Tac-Toe/main/screenshots/6-game-win.PNG">
