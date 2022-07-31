@@ -7,10 +7,20 @@ The screenshots below shows the code in action through replit, an online IDE (In
 
 ## Screenshots
 
-### Game Start
+### Starting the game
 <img width="250" alt="game start" src="https://raw.githubusercontent.com/adamyangyang/TalentLabs-Capstone-Project-1-Python-Tic-Tac-Toe/main/screenshots/1-game-start.PNG">
+
+### When it's a tie
 <img width="250" alt="game draw" src="https://raw.githubusercontent.com/adamyangyang/TalentLabs-Capstone-Project-1-Python-Tic-Tac-Toe/main/screenshots/2-game-draw.PNG">
+
+### Restarting the game
 <img width="250" alt="game restart" src="https://raw.githubusercontent.com/adamyangyang/TalentLabs-Capstone-Project-1-Python-Tic-Tac-Toe/main/screenshots/3-game-restart.PNG">
+
+### Player one's turn
 <img width="250" alt="player one turn" src="https://raw.githubusercontent.com/adamyangyang/TalentLabs-Capstone-Project-1-Python-Tic-Tac-Toe/main/screenshots/4-player-one-turn.PNG">
+
+### Player two's turn
 <img width="250" alt="player two turn" src="https://raw.githubusercontent.com/adamyangyang/TalentLabs-Capstone-Project-1-Python-Tic-Tac-Toe/main/screenshots/5-player-two-turn.PNG">
+
+### When a player wins
 <img width="250" alt="game win" src="https://raw.githubusercontent.com/adamyangyang/TalentLabs-Capstone-Project-1-Python-Tic-Tac-Toe/main/screenshots/6-game-win.PNG">
