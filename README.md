@@ -26,4 +26,4 @@ The screenshots below shows the code in action through replit, an online IDE (In
 <img width="250" alt="game win" src="https://raw.githubusercontent.com/adamyangyang/TalentLabs-Capstone-Project-1-Python-Tic-Tac-Toe/main/screenshots/6-game-win.PNG">
 
 ## Gameplay Footage
-<img width="250" alt="gameplay video" src="https://raw.githubusercontent.com/adamyangyang/TalentLabs-Capstone-Project-1-Python-Tic-Tac-Toe/main/screenshots/6-game-win.PNG">
+<img width="250" alt="gameplay video" src="https://raw.githubusercontent.com/adamyangyang/TalentLabs-Capstone-Project-1-Python-Tic-Tac-Toe/main/screenshots/tic-tac-toe-gameplay.gif">
